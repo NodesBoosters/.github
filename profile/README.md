@@ -17,7 +17,7 @@ Hi there 👋, we are NodesBoosters squad<br><br>Group of fabulous and curious f
         <img height="35px" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
     </a>
     <a href="https://nodesboosters.com" target="_blank">
-        <img height="35px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+        <img height="35px" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.com&logoColor=white">
     </a>
 </div>
 
